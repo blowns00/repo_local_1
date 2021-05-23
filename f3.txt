@@ -1,0 +1,6 @@
+perro
+gato
+periquito
+caballo
+mapache
+huron
